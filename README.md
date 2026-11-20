@@ -10,7 +10,7 @@ The main objective is to transform raw data into meaningful visualizations that 
 
 ##  Dashboard Preview
 
-![Olympic Medal Analytics Dashboard](Picture/OlympicDashboard.png)
+![Olympic Medal Analytics Dashboard](https://github.com/malomrics-hub/Olympic-Medal-Analytics/blob/main/OlympicDashboard.png)
 
 
 ###  Live Interactive Dashboard
